@@ -2,8 +2,20 @@
 
 # Hi, I'm MD Abu Hanif 👋
 
-💻 Full Stack Developer (Custom Code & WordPress)  
-🚀 I build scalable, modern web applications  
-🛠 Tech Stack: React, Node.js, PHP, WordPress  
+## 🚀 Full Stack Developer (Custom Code & WordPress)
 
-📫 Open to freelance & collaborations
+I build modern, scalable, and high performance web applications.
+
+### 🛠 Tech Stack
+- Frontend: HTML, CSS, JavaScript, React  
+- Backend: Node.js, PHP  
+- CMS: WordPress  
+
+### 💼 What I Do
+- Custom Website Development  
+- WordPress Development & Customization  
+- Responsive UI/UX Design  
+
+### 📫 Contact
+- Email: shelbyluxeofficial@gmail.com  
+- Open to freelance & collaborations.
