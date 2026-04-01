@@ -1,21 +1,23 @@
 ![Banner](https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1280&h=320&q=80)
 
-# Hi, I'm MD Abu Hanif 👋
+# Hi, I'm Abu Hanif 👋  
 
-## 🚀 Full Stack Developer (Custom Code & WordPress)
+## 🚀 Full Stack Web Developer | WordPress & eCommerce Specialist  
+I build fast, modern, and high-converting websites for businesses.
+I help businesses grow by building fast, responsive, and user-friendly websites.
 
-I build modern, scalable, and high performance web applications.
-
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 - Frontend: HTML, CSS, JavaScript, React  
 - Backend: Node.js, PHP  
-- CMS: WordPress  
+- CMS: WordPress   
 
-### 💼 What I Do
-- Custom Website Development  
-- WordPress Development & Customization  
-- Responsive UI/UX Design  
+## 💼 What I Do
+- 🌐 Custom Website Development  
+- 🛒 eCommerce (WooCommerce & Shopify)  
+- 🎨 Responsive UI/UX Design  
+- ⚡ Website Speed Optimization  
 
-### 📫 Contact
-- Email: shelbyluxeofficial@gmail.com  
-- Open to freelance & collaborations.
+## 📫 Contact Me
+- Email: shelbyluxofficial@gmail.com  
+- Fiverr: (add your link)  
+- Portfolio: (add if available)  
