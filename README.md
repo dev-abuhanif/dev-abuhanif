@@ -19,5 +19,5 @@ I help businesses grow by building fast, responsive, and user-friendly websites.
 
 ## 📫 Contact Me
 - Email: shelbyluxofficial@gmail.com  
-- Fiverr: (add your link)  
+- Fiverr: https://www.fiverr.com/abuhanif8  
 - Portfolio: (add if available)  
